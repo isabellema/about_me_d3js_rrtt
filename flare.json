@@ -1,0 +1,344 @@
+{
+ "name": "I love",
+ "url": "http://en.wiktionary.org/wiki/enthousiaste#Adjective",
+ "children": [
+  {
+   "name": "music",
+   "url": "https://www.google.com/doodles/clara-schumanns-193rd-birthday",
+   "children": [
+    {
+     "name": "& listen to",
+     "url": "http://www.last.fm/user/isabellemah/charts?subtype=albums",
+     "children": [
+      {"name": "spotify", "url": "spotify:user:isabellema"},
+      {"name": "soundcloud", "url": "https://soundcloud.com/isabellema"},
+      {"name": "youtube", "url": "https://www.youtube.com/channel/UCb2XNIajy3T5Xcx_Jzs6byQ/playlists"},
+      {"name": "CDs", "url": "http://www.last.fm/user/isabellemah/library/tags?tag=albums+i+own&view=cloud"},
+      {"name": "vinyl records", "url": "http://www.last.fm/user/isabellemah/library/tags?tag=albums+i+own+on+vinyl&view=cloud"}
+     ]
+    },
+    {
+     "name": "& played in",
+     "url": "https://www.facebook.com/photo.php?fbid=746885052029576&set=a.464233103628107.122128.100001242639928",
+     "children": [
+      {"name": "classical orchestras", "url": "spotify:user:isabellema:playlist:51Cyuh1o0RSw7LeocgsuKe"},
+      {"name": "chamber music ensembles", "url": "https://www.youtube.com/watch?v=k0_bmtPyeiA"},
+      {"name": "rock bands", "url": "spotify:user:isabellema:playlist:07zSvHT2BaxLgJgPjYDOS3"}
+     ]
+    },
+    {
+     "name": "& play on",
+     "url": "http://en.wikipedia.org/wiki/Video_game_controversies#Theories_of_positive_effects_of_video_games",
+     "children": [
+      {"name": "massivemusicquiz", "url": "http://fr.massivemusicquiz.com/"}
+     ]
+    },
+    {
+     "name": "& write",
+     "url": "http://en.wikipedia.org/wiki/Musical_notation#Modern_staff_notation",
+     "children": [
+      {"name": "transcriptions", "url": "http://en.wikipedia.org/wiki/Transcription_%28music%29#Adaptation"},
+      {"name": "arrangements", "url": "http://en.wikipedia.org/wiki/Arrangement"}
+     ]
+    },
+    {
+     "name": "& developed",
+     "url": "http://en.wikipedia.org/wiki/Computer_music#Computer-Aided_Algorithmic_Composition",
+     "children": [
+      {"name": "artificial ants music", "url": "http://isabellema.free.fr/dld/pfe/applets/playmidi/JarPlayMidis.html"}
+     ]
+    },
+    {
+     "name": "& have seen",
+     "url": "http://www.fnacspectacles.com/editorial.do?page=alerte_mail",
+     "children": [
+      {"name": "concerts & festivals", "url": "http://www.last.fm/user/isabellemah/events"}
+     ]
+    },
+    {
+     "name": "& studied the",
+     "url": "http://en.wikipedia.org/wiki/Sight-reading",
+     "children": [
+      {"name": "piano", "url": "http://imslp.org/wiki/Category:Scores_featuring_the_piano"},
+      {"name": "cello", "url": "http://imslp.org/wiki/List_of_Compositions_Featuring_the_Cello"},
+      {"name": "flute", "url": "http://imslp.org/wiki/List_of_Compositions_Featuring_the_Flute_and_Recorder"},
+      {"name": "electric bass", "url": "http://en.wikibooks.org/wiki/How_to_Play_the_Bass"},
+      {"name": "harmonica", "url": "https://www.facebook.com/DeliriumBluesArmonica"},
+      {"name": "turntables", "url": "http://clementloup.com/scratch/"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "computers",
+   "url": "http://fr.wikipedia.org/wiki/Atari_ST",
+   "children": [
+    {
+     "name": "& work with",
+     "url": "http://isabellema.free.fr/dev/cv/",
+     "children": [
+      {"name": "Leboncoin.fr", "url": "http://www.leboncoin.fr"},
+      {"name": "Schibsted Iberica", "url": "https://www.schibstediberica.es/"}
+     ]
+    },
+    {
+     "name": "& use",
+     "url": "http://en.wiktionary.org/wiki/PEBCAK#Acronym",
+     "children": [
+      {"name": "linux", "url": "https://www.debian.org/index.html"},
+      {"name": "emacs-nox", "url": "http://www.gnu.org/software/emacs/"},
+      {"name": "command line", "url": "http://en.wikibooks.org/wiki/Bash_Shell_Scripting"},
+      {"name": "mac os x", "url": "http://en.wikipedia.org/wiki/OS_X"},
+      {"name": "google products", "url": "http://en.wikipedia.org/wiki/List_of_Google_products"},
+      {"name": "firefox", "url": "https://www.mozilla.org/en-US/"},
+      {"name": "bookmarks", "url": "http://download.xmarks.com/download/firefox"},
+      {"name": "irc"},
+      {"name": "skype", "url": "http://www.skype.com"},
+      {"name": "jabber", "url": "http://en.wikipedia.org/wiki/XMPP"},
+      {"name": "version control", "url": "http://en.wikipedia.org/wiki/Revision_control"},
+      {"name": "bug tracking", "url": "http://en.wikipedia.org/wiki/Bug_tracking_system"}
+     ]
+    },
+    {
+     "name": "& develop",
+     "url": "http://thecodinglove.com/",
+     "children": [
+      {"name": "c", "url": "http://en.wikibooks.org/wiki/C_Programming"},
+      {"name": "bash", "url": "http://en.wikibooks.org/wiki/Bash_Shell_Scripting"},
+      {"name": "php", "url": "http://en.wikibooks.org/wiki/PHP_Programming"},
+      {"name": "sql", "url": "http://www.postgresql.org/"},
+      {"name": "html", "url": "http://www.w3.org/TR/html5/"},
+      {"name": "css", "url": "http://www.w3.org/TR/CSS2/"},
+      {"name": "js", "url": "http://en.wikibooks.org/wiki/JavaScript"},
+      {"name": "make", "url": "http://en.wikibooks.org/wiki/Make"}
+     ]
+    },
+    {
+     "name": "& think QA",
+     "url": "http://www.gtou.pt/",
+     "children": [
+      {"name": "selenium", "url": "http://www.seleniumhq.org/"},
+      {"name": "automation", "url": "http://en.wikipedia.org/wiki/Test_automation"},
+      {"name": "bug reporting", "url": "http://www.allthingsquality.com/2010/04/writing-issue-reports-that-work.html"},
+      {"name": "server logs", "url": "http://en.wikipedia.org/wiki/Server_log"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "people",
+   "url": "http://en.wikipedia.org/wiki/Empathy#Definition",
+   "children": [
+    {
+     "name": "& share via",
+     "url": "http://en.wikipedia.org/wiki/Social_media#Positive_effects_of_social_media",
+     "children": [
+      {"name": "facebook", "url": "https://www.facebook.com/isabelle.mah"},
+      {"name": "linkedin", "url": "http://www.linkedin.com/pub/isabelle-mahnich/60/a16/8a4"},
+      {"name": "picasa", "url": "http://picasaweb.google.com/isabelle.mah?noredirect=1"},
+      {"name": "blog", "url": "http://isabellema.free.fr"},
+      {"name": "chat", "url": "http://www.google.com/+/learnmore/hangouts/"},
+      {"name": "email", "url": "http://www.gmail.com"}
+     ]
+    },
+    {
+     "name": "& care about",
+     "url": "http://en.wikipedia.org/wiki/Compassion",
+     "children": [
+      {"name": "strangers", "url": "http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Civil_Rights_March_on_Washington%2C_D.C._%28A_crowd_of_marchers.%29_-_NARA_-_542042.tif/lossy-page1-1280px-Civil_Rights_March_on_Washington%2C_D.C._%28A_crowd_of_marchers.%29_-_NARA_-_542042.tif.jpg"},
+      {"name": "family & friends", "url": "http://www.wisedecor.com/decor/files/t_21281.gif"},
+      {"name": "boyfriend & child", "url": "http://en.wikipedia.org/wiki/Work_at_home_parent"},
+      {"name": "coworkers", "url": "http://en.wikipedia.org/wiki/Group_cohesiveness"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "food",
+   "url": "http://commons.wikimedia.org/wiki/Commons:Featured_pictures/Food_and_drink#Food",
+   "children": [
+    {
+     "name": "& eat",
+     "url": "http://en.wiktionary.org/wiki/taste#Verb",
+     "children": [
+       {"name": "cheese", "url": "http://fr.wikipedia.org/wiki/Liste_de_fromages_fran%C3%A7ais"},
+       {"name": "baguette", "url": "http://en.wikipedia.org/wiki/Baguette#mediaviewer/File:Mie_Baguette_de_tradition_France.jpg"}
+     ]
+    },
+    {
+     "name": "& cook",
+     "url": "http://en.wikipedia.org/wiki/Slow_Food",
+     "children": [
+       {"name": "recipes", "url": "https://twitter.com/chez_isa_et_ju"},
+       {"name": "local vegetables", "url": "http://lepetitverger.free.fr/"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "active living",
+   "url": "http://en.wikipedia.org/wiki/Active_living",
+   "children": [
+    {
+     "name": "& relax with",
+     "url": "http://en.wikipedia.org/wiki/Relaxation_technique",
+     "children": [
+       {"name": "yoga", "url": "http://en.wikipedia.org/wiki/Yoga_as_exercise_or_alternative_medicine#Research_activity"}
+     ]
+    },
+    {
+     "name": "& exercise",
+     "url": "http://en.wikipedia.org/wiki/Neurobiological_effects_of_physical_exercise#Short-term_effects",
+     "children": [
+       {"name": "inline skating", "url": "http://en.wikipedia.org/wiki/Inline_skates#Aggressive_Hi-Lo_Setup"},
+       {"name": "hiking", "url": "https://picasaweb.google.com/108804157265812802184/Public?noredirect=1#6032123776496154402"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "wisdom",
+   "url": "http://en.wikipedia.org/wiki/Wisdom#Psychological_perspectives",
+   "children": [
+    {
+      "name": "& encourage",
+      "url": "http://nlark.deviantart.com/art/How-To-Change-The-World-216645791",
+      "children": [
+       {"name": "nonviolent communication", "url": "http://en.wikipedia.org/wiki/Nonviolent_Communication"},
+       {"name": "open source", "url": "http://en.wikipedia.org/wiki/Open_source"},
+       {"name": "self-knowledge", "url": "http://en.wikipedia.org/wiki/Self-knowledge_%28psychology%29"},
+       {"name": "altruism", "url": "http://en.wikipedia.org/wiki/Altruism"}
+      ]
+    },
+    {
+      "name": "& fight",
+      "url": "http://en.wikipedia.org/wiki/Activism#Methods",
+      "children": [
+       {"name": "hoax", "url": "http://www.hoaxbuster.com/"},
+       {"name": "badmouth", "url": "http://en.wiktionary.org/wiki/badmouth#Verb"},
+       {"name": "ignorance", "url": "http://en.wikipedia.org/wiki/Ignorance#Consequences_of_ignorance"},
+       {"name": "prejudice", "url": "http://en.wikipedia.org/wiki/Prejudice"},
+       {"name": "waste", "url": "http://en.wikipedia.org/wiki/Index_of_waste_management_articles"},
+       {"name": "suspicion", "url": "http://en.wikipedia.org/wiki/Suspicion_%28emotion%29"},
+       {"name": "anger", "url": "http://en.wikipedia.org/wiki/Anger"}
+      ]
+    },
+    {
+     "name": "& donate to",
+     "url": "http://en.wikipedia.org/wiki/Slacktivism#Charity",
+     "children": [
+      {"name": "restos du coeur", "url": "http://www.restosducoeur.org/"},
+      {"name": "care france", "url": "http://www.carefrance.org/"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "learning",
+   "url": "http://en.wikipedia.org/wiki/Outline_of_academic_disciplines",
+   "children": [
+    {
+     "name": "& watch",
+     "url": "http://en.wikipedia.org/wiki/Curiosity#Curiosity-drive_model",
+     "children": [
+      {"name": "encyclopedias", "url": "http://en.wikipedia.org/wiki/Main_Page"},
+      {"name": "documentaries", "url": "http://en.wikipedia.org/wiki/List_of_documentary_films"},
+      {"name": "ted talks", "url": "http://www.ted.com/topics"},
+      {"name": "le zapping de canal+", "url": "http://www.canalplus.fr/c-infos-documentaires/pid1830-c-zapping.html"}   
+     ]
+    },
+    {
+     "name": "& studied at",
+     "url": "http://en.wikipedia.org/wiki/Education_in_France",
+     "children": [
+      {"name": "mooc", "url": "https://www.france-universite-numerique-mooc.fr/"},
+      {"name": "Polytech Tours", "url": "http://polytech.univ-tours.fr/"}
+     ]
+    },
+    {
+     "name": "& read",
+     "url": "http://vbiblio.free.fr/public/user/isabellema",
+     "children": [
+      {"name": "philip k. dick", "url": "http://en.wikipedia.org/wiki/Philip_K._Dick_bibliography"}
+     ]
+    },
+    {
+     "name": "& taught",
+     "url": "http://en.wikipedia.org/wiki/Teacher#Teacher_enthusiasm",
+     "children": [
+      {"name": "computer science", "url": "http://fr.wikipedia.org/wiki/Baccalaur%C3%A9at_professionnel_en_micro-informatique_et_r%C3%A9seaux,_installation_et_maintenance"},
+      {"name": "math", "url": "http://www.education.gouv.fr/cid5677/accompagnement-educatif.html"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "finding inspiration",
+   "url": "http://en.wikipedia.org/wiki/Absorption_%28psychology%29",
+   "children": [
+    {
+     "name": "& browse",
+     "url": "http://www.francisvachon.com/blog/10-bogus-excuses-to-use-a-photo-you-found-on-the-internet/",
+     "children": [
+      {"name": "wikipedia featured", "url": "http://commons.wikimedia.org/wiki/Commons:Featured_pictures"}
+     ]
+    },
+    {
+     "name": "& notice",
+     "url": "http://en.wiktionary.org/wiki/revitalise#Verb",
+     "children": [
+      {"name": "skies", "url": "http://commons.wikimedia.org/wiki/Sky"},
+      {"name": "trees", "url": "http://commons.wikimedia.org/wiki/Forest_species"},
+      {"name": "trails", "url": "http://www.trekearth.com/search.php?phrase=trail"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "organizing",
+   "url": "http://en.wikipedia.org/wiki/Procrastination",
+   "children": [
+    {
+     "name": "& contact",
+     "url": "http://upload.wikimedia.org/wikipedia/commons/6/60/Chierry-Aisne-t%C3%A9l%C3%A9phone-08.JPG",
+     "children": [
+      {"name": "phpmyaddressbook", "url": "http://ploc.acampado.net/phpmyaddressbook/"}
+     ]
+    },
+    {
+     "name": "& plan",
+     "url": "http://fr.wikipedia.org/wiki/Getting_Things_Done",
+     "children": [
+      {"name": "todo lists", "url": "https://www.trello.com"},
+      {"name": "doodle", "url": "https://www.doodle.com"}
+     ]
+    }
+   ]
+  },
+  {
+   "name": "adapting",
+   "url": "http://www.matthieuricard.org/articles/les-bienfaits-de-la-reflexion-sur-l-impermanence",
+   "children": [
+    {
+     "name": "& lived in",
+     "url": "http://en.wikipedia.org/wiki/Expatriate#Expatriate_preparation",
+     "children": [
+      {"name": "France", "url": "https://www.google.com/maps?q=France"},
+      {"name": "USA", "url": "https://www.google.com/maps?q=USA"},
+      {"name": "Spain", "url": "https://www.google.com/maps?q=Spain"}
+     ]
+    },
+    {
+     "name": "& speak",
+     "url": "http://en.wikipedia.org/wiki/Acculturation",
+     "children": [
+      {"name": "french", "url": "http://en.wikibooks.org/wiki/French"},
+      {"name": "english", "url": "http://en.wikibooks.org/wiki/Subject:English_language"},
+      {"name": "spanish", "url": "http://en.wikibooks.org/wiki/Spanish"},
+      {"name": "german", "url": "http://en.wikibooks.org/wiki/German"}
+     ]
+    }
+   ]
+  }
+ ]
+}

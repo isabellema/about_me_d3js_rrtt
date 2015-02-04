@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>About IM</title>
+<style>
+
+body {
+  background-color: #ffffeb;
+}
+
+.node circle {
+  fill: #f76800;
+}
+
+.node {
+  font: 11px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: #eaebf0;
+  stroke-width: 1.5px;
+}
+
+svg {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+</style>
+</head>
+<body>
+<script src="d3js/d3.v3.min.js"></script>
+<script>
+
+var diameter = 700;
+
+var tree = d3.layout.tree()
+    .size([360, diameter / 2 - 120])
+    .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
+
+var diagonal = d3.svg.diagonal.radial()
+    .projection(function(d) { return [d.y, d.x / 180 * Math.PI]; });
+
+var svg = d3.select("body").append("svg")
+    .attr("width", diameter)
+    .attr("height", diameter - 30)
+    .append("g")
+    .attr("transform", "translate(" + diameter / 2 + "," + diameter / 2 + ")");
+
+d3.json("flare.json", function(error, root) {
+  var nodes = tree.nodes(root),
+      links = tree.links(nodes);
+
+  var link = svg.selectAll(".link")
+      .data(links)
+    .enter().append("path")
+      .attr("class", "link")
+      .attr("d", diagonal);
+
+  var node = svg.selectAll(".node")
+      .data(nodes)
+    .enter().append("g")
+      .attr("class", "node")
+      .attr("transform", function(d) { return "rotate(" + (d.x - 90) + ")translate(" + d.y + ")"; })
+
+  node.append("circle")
+      .attr("r", 4.5);
+
+  node.append("text")
+      .attr("fill", "#336699")
+      .attr("dy", ".31em")
+      .attr("text-anchor", function(d) { return d.x < 180 ? "start" : "end"; })
+      .attr("transform", function(d) { return d.x < 180 ? "translate(8)" : "rotate(180)translate(-8)"; })
+      .text(function(d) { return d.name; });
+
+// add URL support
+  node.append("svg:a")
+    .attr("xlink:href", function(d){return d.url;})
+    .append("svg:rect")
+    .attr("x", -10)
+    .attr("y", -5)
+    .attr("height", 10)
+    .attr("width", 100)
+    .style("fill", "transparent");
+});
+
+d3.select(self.frameElement).style("height", diameter - 150 + "px");
+
+</script>
+<!-- Using mbostock d3js library, "Radial Reingold-Tilford Tree": http://bl.ocks.org/mbostock/4063550-->
+<!-- Inspired by "Hyperlinks in d3.js objects": http://stackoverflow.com/questions/13104681/hyperlinks-in-d3-js-objects -->
+</body>
+</html>
