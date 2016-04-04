@@ -64,7 +64,7 @@
       {"name": "flute", "url": "http://imslp.org/wiki/List_of_Compositions_Featuring_the_Flute_and_Recorder"},
       {"name": "electric bass", "url": "http://en.wikibooks.org/wiki/How_to_Play_the_Bass"},
       {"name": "harmonica", "url": "https://www.facebook.com/DeliriumBluesArmonica"},
-      {"name": "turntables", "url": "http://clementloup.com/scratch/"}
+      {"name": "turntables", "url": "http://djclaim.com/"}
      ]
     }
    ]
@@ -78,7 +78,8 @@
      "url": "http://isabellema.free.fr/dev/cv/",
      "children": [
       {"name": "Leboncoin.fr", "url": "http://www.leboncoin.fr"},
-      {"name": "Schibsted Iberica", "url": "https://www.schibstediberica.es/"}
+      {"name": "Schibsted Iberica", "url": "https://www.schibstediberica.es/"},
+      {"name": "Kapaza", "url": "https://www.kapaza.be/fr/"}
      ]
     },
     {
@@ -90,7 +91,7 @@
       {"name": "command line", "url": "http://en.wikibooks.org/wiki/Bash_Shell_Scripting"},
       {"name": "mac os x", "url": "http://en.wikipedia.org/wiki/OS_X"},
       {"name": "google products", "url": "http://en.wikipedia.org/wiki/List_of_Google_products"},
-      {"name": "firefox", "url": "https://www.mozilla.org/en-US/"},
+      {"name": "firefox", "url": "https://www.mozilla.org/en-US/firefox"},
       {"name": "bookmarks", "url": "http://download.xmarks.com/download/firefox"},
       {"name": "irc"},
       {"name": "skype", "url": "http://www.skype.com"},
@@ -137,7 +138,7 @@
       {"name": "linkedin", "url": "http://www.linkedin.com/pub/isabelle-mahnich/60/a16/8a4"},
       {"name": "picasa", "url": "http://picasaweb.google.com/isabelle.mah?noredirect=1"},
       {"name": "blog", "url": "http://isabellema.free.fr"},
-      {"name": "chat", "url": "http://www.google.com/+/learnmore/hangouts/"},
+      {"name": "chat", "url": "https://hangouts.google.com/"},
       {"name": "email", "url": "http://www.gmail.com"}
      ]
     },
@@ -333,7 +334,7 @@
      "url": "http://en.wikipedia.org/wiki/Acculturation",
      "children": [
       {"name": "french", "url": "http://en.wikibooks.org/wiki/French"},
-      {"name": "english", "url": "http://en.wikibooks.org/wiki/Subject:English_language"},
+      {"name": "english", "url": "http://en.wikibooks.org/wiki/English_in_Use"},
       {"name": "spanish", "url": "http://en.wikibooks.org/wiki/Spanish"},
       {"name": "german", "url": "http://en.wikibooks.org/wiki/German"}
      ]
